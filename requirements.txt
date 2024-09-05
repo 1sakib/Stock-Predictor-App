@@ -4,5 +4,5 @@ yfinance
 prophet
 plotly
 cmdstanpy
-numpy
+numpy<2.0
 Cython
