@@ -34,12 +34,8 @@
     </li>
     <li>
       <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
+    <li><a href="#use">Usage</a></li>
     <li><a href="#contact">Contact</a></li>
     
   </ol>
@@ -50,7 +46,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About Project - Stock Predictor App
 
-[![Product Name Screen Shot][product-screenshot]]([https://stock-predictor-app-with-trends.streamlit.app/])
+![Product Name Screen Shot][product-screenshot]https://stock-predictor-app-with-trends.streamlit.app/
 
 In this project, I created an application that can predict the stock closed prices over a specified period of time.
 I use an open-source machine learning model called Prophet that reads and analyzes stock data to produce its predictions.
