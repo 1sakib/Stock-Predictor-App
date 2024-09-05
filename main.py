@@ -7,7 +7,9 @@ import yfinance as yf
 from prophet import Prophet
 from prophet.plot import plot_plotly
 from plotly import graph_objs as go
+import numpy as np
 
+np.float_ = np.float64
 
 # Constants 
 TODAY = date.today().strftime("%Y-%m-%d")
