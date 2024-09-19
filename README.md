@@ -48,7 +48,7 @@
 
 ![Product Name Screen Shot][product-screenshot]https://stock-predictor-app-with-trends.streamlit.app/
 
-In this project, I created an application that can predict the stock closed prices over a specified period of time.
+In this project, I created an application that can predict a stock's closed prices over a specified period of time.
 I use an open-source machine learning model called Prophet that reads and analyzes stock data to produce its predictions.
 
 How it works : 
