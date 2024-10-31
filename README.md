@@ -31,7 +31,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About Project - Stock Predictor App
 
-![Product Name Screen Shot][product-screenshot]https://stock-predictor-app-with-trends.streamlit.app/
+
 
 In this project, I created an application that can predict a stock's closed prices over a specified period of time.
 I use an open-source machine learning model called Prophet that reads and analyzes stock data to produce its predictions.
@@ -44,7 +44,7 @@ The Prophet model would analyze the data and produce a table of data that has th
 many years the user specified.
 The graph of the predictions and trend of the prices would be shown using the Plotly library at the end.
 
-Click here for the application : [https://stock-predictor-app-with-trends.streamlit.app]
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
