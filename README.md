@@ -31,7 +31,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About Project - Stock Predictor App
 
-
+![Product Name Screen Shot][product-screenshot]
 
 In this project, I created an application that can predict a stock's closed prices over a specified period of time.
 I use an open-source machine learning model called Prophet that reads and analyzes stock data to produce its predictions.
